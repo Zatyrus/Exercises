@@ -1,0 +1,137 @@
+{
+    "1": {
+        "OverlayType": {
+            "G_pEnter": "float",
+            "G_pExit": "float",
+            "OL_dim_x": "int",
+            "OL_dim_y": "int",
+            "OL_gateD": "float",
+            "OL_localD": "float",
+            "OL_moveMode": "str",
+            "OL_pEnter": "float",
+            "OL_pExit": "float",
+            "OL_shapeSeed": "float",
+            "OL_tStable": "bool"
+        }
+    },
+    "2": {
+        "OverlayType": {
+            "G_pEnter": "float",
+            "G_pExit": "float",
+            "OL_dim_x": "int",
+            "OL_dim_y": "int",
+            "OL_gateD": "float",
+            "OL_localD": "float",
+            "OL_moveMode": "str",
+            "OL_pEnter": "float",
+            "OL_pExit": "float",
+            "OL_shapeSeed": "float",
+            "OL_tStable": "bool"
+        }
+    },
+    "3": {
+        "OverlayType": {
+            "G_pEnter": "float",
+            "G_pExit": "float",
+            "OL_dim_x": "int",
+            "OL_dim_y": "int",
+            "OL_gateD": "float",
+            "OL_localD": "float",
+            "OL_moveMode": "str",
+            "OL_pEnter": "float",
+            "OL_pExit": "float",
+            "OL_shapeSeed": "float",
+            "OL_tStable": "bool"
+        }
+    },
+    "4": {
+        "OverlayType": {
+            "G_pEnter": "float",
+            "G_pExit": "float",
+            "OL_dim_x": "int",
+            "OL_dim_y": "int",
+            "OL_gateD": "float",
+            "OL_localD": "float",
+            "OL_moveMode": "str",
+            "OL_pEnter": "float",
+            "OL_pExit": "float",
+            "OL_shapeSeed": "float",
+            "OL_tStable": "bool"
+        }
+    },
+    "5": {
+        "OverlayType": {
+            "G_pEnter": "float",
+            "G_pExit": "float",
+            "OL_dim_x": "int",
+            "OL_dim_y": "int",
+            "OL_gateD": "float",
+            "OL_localD": "float",
+            "OL_moveMode": "str",
+            "OL_pEnter": "float",
+            "OL_pExit": "float",
+            "OL_shapeSeed": "float",
+            "OL_tStable": "bool"
+        }
+    },
+    "6": {
+        "OverlayType": {
+            "G_pEnter": "float",
+            "G_pExit": "float",
+            "OL_dim_x": "int",
+            "OL_dim_y": "int",
+            "OL_gateD": "float",
+            "OL_localD": "float",
+            "OL_moveMode": "str",
+            "OL_pEnter": "float",
+            "OL_pExit": "float",
+            "OL_shapeSeed": "float",
+            "OL_tStable": "bool"
+        }
+    },
+    "7": {
+        "OverlayType": {
+            "G_pEnter": "float",
+            "G_pExit": "float",
+            "OL_dim_x": "int",
+            "OL_dim_y": "int",
+            "OL_gateD": "float",
+            "OL_localD": "float",
+            "OL_moveMode": "str",
+            "OL_pEnter": "float",
+            "OL_pExit": "float",
+            "OL_shapeSeed": "float",
+            "OL_tStable": "bool"
+        }
+    },
+    "8": {
+        "OverlayType": {
+            "G_pEnter": "float",
+            "G_pExit": "float",
+            "OL_dim_x": "int",
+            "OL_dim_y": "int",
+            "OL_gateD": "float",
+            "OL_localD": "float",
+            "OL_moveMode": "str",
+            "OL_pEnter": "float",
+            "OL_pExit": "float",
+            "OL_shapeSeed": "float",
+            "OL_tStable": "bool"
+        }
+    },
+    "9": {
+        "OverlayType": {
+            "G_pEnter": "float",
+            "G_pExit": "float",
+            "OL_dim_x": "int",
+            "OL_dim_y": "int",
+            "OL_gateD": "float",
+            "OL_localD": "float",
+            "OL_moveMode": "str",
+            "OL_pEnter": "float",
+            "OL_pExit": "float",
+            "OL_shapeSeed": "float",
+            "OL_tStable": "bool"
+        }
+    }
+}
