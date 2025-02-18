@@ -1,2 +1,5 @@
 
 __pycache__/Rangoli.cpython-37.pyc
+
+*.png
+*.svg
