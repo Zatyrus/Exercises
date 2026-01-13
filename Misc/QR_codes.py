@@ -1,7 +1,7 @@
 import qrcode
 
-data:str = "..."
+data:str = "XXX"
 
 img = qrcode.make(data)
 print(type(img))  # qrcode.image.pil.PilImage
-img.save("something.png")
+img.save("XXX.png".replace(" ", "_"))
