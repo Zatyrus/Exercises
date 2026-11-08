@@ -25,7 +25,7 @@ interactive:bool = False
 ## transformation matrices
 A:np.ndarray = np.array(([0.5, 0.5], [-0.5, 0.5]))
 B:np.ndarray = np.array(([0.5, -0.5], [0.5, 0.5]))
-offset:np.ndarray = np.array([0.5, 0.5])
+offset:np.ndarray = np.array([0.3, 0.6])
 
 ## util
 def seed_random(seed:int)->NoReturn:

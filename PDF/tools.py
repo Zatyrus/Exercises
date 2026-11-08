@@ -231,6 +231,43 @@ class pdfTools():
         confirm = input('Confirm? (y/n): ')
         return confirm
     
+    def rearrange(self, new_arrangement:list[int]):
+        print('Current Arrangement:')
+        self.showPDFArrangement()
+        
+        ## check if new arrangement is valid
+        try:
+            assert len(new_arrangement) == len(self.__arrangement)
+            assert all([id in new_arrangement for id in self.__arrangement])
+            
+        except AssertionError as e:
+            print('Invalid arrangement')
+            print('Error:', e)
+            print('Exiting...')
+            return False
+    
+        ## Rearrange
+        tmp_arrangement = {id:self.__arrangement[id] for id in new_arrangement}
+        
+        ## Check back with user
+        print('New Arrangement:')
+        pprint(tmp_arrangement)
+        confirm = input('Confirm? (y/n): ')
+        
+        if confirm == 'y':
+            if self.verbose:
+                print('Arrangement set')
+            self.arrangement = tmp_arrangement
+            return True
+        elif confirm == 'n':
+            if self.verbose:
+                print('Arrangement not set')
+            return False
+        else:
+            print('Invalid input')
+            return False
+        
+    
     def setArrangement(self):
         new_arrangement = self.__requestNewArrangement()
         
